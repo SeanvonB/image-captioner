@@ -1,3 +1,6 @@
 # Python cache
 __pycache__
 *.pyc
+
+# Training log
+training_log.txt
